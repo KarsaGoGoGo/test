@@ -1,4 +1,4 @@
-hello
+hello这是我的kass的本地主分支，我要去push到github的kass分支，而不是master
 hadoop
 hello
 hive  7777
